@@ -24,6 +24,7 @@ import Contact_3 from "./Task/Contact"
 import Logo_4 from "./Task/Logo"
 import Allinone from "./Task/Allinone"
 import Demoredux from "./Redux/Demoredux"
+import First_one from "./myprojects/firstone"
 function App() {
 
   return (
@@ -56,6 +57,7 @@ function App() {
      {/* <Contact_3/> */}
      {/* <Logo_4/> */}
      {/* <Allinone/> */}
+     <First_one/>
      <Demoredux />
      <Routes>
       <Route index element ={<Allinone />}/>
