@@ -1,4 +1,4 @@
-import "./bootstrap-5.3.5-dist/css/bootstrap.min.css"
+import "../bootstrap-5.3.5-dist/css/bootstrap.min.css"
 
 export default function First_one(){
 
